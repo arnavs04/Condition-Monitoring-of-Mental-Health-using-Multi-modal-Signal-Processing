@@ -1,2 +1,2 @@
-# Mental-Health-Disorder-Detection
-Research project under the supervision of Prof. Saptarshi Chatterjee focused on the detection of mental health disorders using EEG signals and Speech Audio datasets
+# Condition Monitoring of Mental Health using Multi-modal Signal Processing
+Official code for our research project “Condition-Monitoring-of-Mental-Health-using-Multi-modal-Signal-Processing” under the supervision of Dr. Saptarshi Chatterjee
